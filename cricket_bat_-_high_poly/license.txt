@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cricket Bat - High Poly
+* source:	https://sketchfab.com/3d-models/cricket-bat-high-poly-3187852a052941818853306c445d152c
+* author:	Karan Sahu (https://sketchfab.com/cgkaran)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cricket Bat - High Poly" (https://sketchfab.com/3d-models/cricket-bat-high-poly-3187852a052941818853306c445d152c) by Karan Sahu (https://sketchfab.com/cgkaran) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
